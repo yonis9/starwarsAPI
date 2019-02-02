@@ -135,7 +135,7 @@ class App extends Component {
 				}
 			</div>
 			<footer className="w-100 h4 flex items-center justify-center white bg-near-black z-2">
-          <a href="https://github.com/zero-to-mastery/ZtM-Job-Board" title="Repository">
+          <a href="https://github.com/yonis9/starwarsAPI" title="Repository">
            <img src={gitlog} alt='Github repo' height='40px' width='40px'/>
           </a>
         </footer>
