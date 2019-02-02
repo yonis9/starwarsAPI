@@ -1,0 +1,18 @@
+nav {
+  width: 100%;
+  margin: 0;
+  top: 0;
+  background: #212121;
+  color: #ccc;
+  z-index: 6;
+  padding: 40px ; /* Large padding which will shrink on scroll (using JS) */
+  transition: 0.4s; /* Adds a transition effect when the padding is decreased */
+  position: fixed;
+  border-bottom: yellow 50px;
+}
+
+.fixed-nav {
+  position: fixed;
+}
+
+

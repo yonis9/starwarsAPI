@@ -1,0 +1,21 @@
+input, select {
+	outline: none;
+}
+    
+    input::placeholder {
+      color: #9E9E9E;
+      opacity: 1;
+    }
+    input:focus::-ms-input-placeholder {
+      color: #9E9E9E;
+    }
+    input:focus:-ms-input-placeholder {
+      color: $color--additional2;
+    }
+    input:focus,
+    select:focus,
+    input:not(:placeholder-shown) {
+      color: #000000;
+      border-color: #2196F3 ;
+    }
+  
