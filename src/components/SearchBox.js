@@ -20,6 +20,7 @@ const SearchBox = ({ searchChange, catChange,  responsiveSearch }) => {
 					<input 
 					className='tc text-black br2 bw1 b--solid b--gold pv2' 
 					style={responsiveSearch}
+					style={}
 					type='search'
 					placeholder='search' 
 					onChange={searchChange}
