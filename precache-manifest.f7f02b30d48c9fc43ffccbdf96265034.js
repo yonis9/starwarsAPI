@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/starwarsAPI/static/css/1.2b723ed7.chunk.css"
   },
   {
-    "revision": "af006909e3bcd127324ef9b57aecc2c0",
+    "revision": "0b4dc32ac7ef6caae0dd3162354c292a",
     "url": "/starwarsAPI/index.html"
   }
 ];
